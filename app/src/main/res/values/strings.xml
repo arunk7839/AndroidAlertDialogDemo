@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidAlertDialogDemo</string>
+    <string name="alert_dialog_with_buttons">AlertDialog With Buttons</string>
+    <string name="alert_dialog_with_list">AlertDialog With List</string>
+    <string name="alert_dialog_with_custom_layout">AlertDialog With Custom Layout</string>
+
+    <string name="alert_dialog_title">AlertDialog Title </string>
+    <string name="dialog_message">Here write your message.</string>
+    <string name="dialog_btn_got_it">GOT IT</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_cancel">CANCEL</string>
+    <string name="dialog_title">Select Language </string>
+    <string name="select_language_title"><font color='navy' >Select Language</font> </string>
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Russian</item>
+        <item>Danish</item>
+        <item>French</item>
+        <item>Italian</item>
+
+    </string-array>
+
+
+</resources>
